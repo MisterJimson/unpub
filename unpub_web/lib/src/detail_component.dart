@@ -3,9 +3,9 @@ import 'dart:html';
 import 'package:angular/angular.dart';
 import 'package:angular_router/angular_router.dart';
 import 'package:markdown/markdown.dart';
+import 'package:unpub/unpub.dart';
 import 'package:unpub_web/app_service.dart';
 import 'routes.dart';
-import 'package:unpub_api/models.dart';
 
 // Allow all url
 // https://stackoverflow.com/questions/18867266/dart-removing-disallowed-attribute-after-editor-upgraded

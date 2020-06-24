@@ -12,7 +12,6 @@ import 'package:shelf_router/shelf_router.dart';
 import 'package:pub_semver/pub_semver.dart' as semver;
 import 'package:archive/archive.dart';
 import 'package:unpub/src/models.dart';
-import 'package:unpub/unpub_api/lib/models.dart';
 import 'package:unpub/src/meta_store.dart';
 import 'package:unpub/src/package_store.dart';
 import 'utils.dart';
